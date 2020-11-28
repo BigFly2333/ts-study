@@ -1,0 +1,1342 @@
+[
+  {
+    "id": 1001,
+    "name": "杭州和达城店",
+    "url": "https://cdn.haimati.cn/himo/43b3fa073f6b34c5e8f2b96cc76ad750.png"
+  },
+  {
+    "id": 1004,
+    "name": "杭州城西银泰店",
+    "url": "https://cdn.haimati.cn/himo/21e04e4f373c821fb9880d49b0f5fd5c.png"
+  },
+  {
+    "id": 1002,
+    "name": "杭州湖滨银泰in77店",
+    "url": "https://cdn.haimati.cn/himo/f6190c6ef20108ccad40ead7d2cbbce8.png"
+  },
+  {
+    "id": 1101,
+    "name": "杭州萧山万象汇店",
+    "url": "https://cdn.haimati.cn/himo/90327135adb44dd51a0add237aded9f4.png"
+  },
+  {
+    "id": 1190,
+    "name": "杭州西湖银泰城店",
+    "url": "https://cdn.haimati.cn/himo/be1d3517c3b94c3d0111ea235687963f.png"
+  },
+  {
+    "id": 1159,
+    "name": "杭州西溪印象城店",
+    "url": "https://cdn.haimati.cn/himo/9ce18303fbcd1e51bd4829b0d0b1dc77.png"
+  },
+  {
+    "id": 1074,
+    "name": "杭州远洋乐堤港店",
+    "url": "https://cdn.haimati.cn/himo/92441e9344034dcd07707eb4573bea69.png"
+  },
+  {
+    "id": 1314,
+    "name": "杭州金沙印象城店",
+    "url": "https://cdn.haimati.cn/himo/61cf7b54280b8fac2868fc911a7edd0c.png"
+  },
+  {
+    "id": 1160,
+    "name": "杭州黄龙万科中心店",
+    "url": "https://cdn.haimati.cn/himo/a58715691e611cf377d53ab228262c07.png"
+  },
+  {
+    "id": 1019,
+    "name": "杭州龙湖金沙天街店",
+    "url": "https://cdn.haimati.cn/himo/606eedc1c18a8058ec1de0f7075aafdb.png"
+  },
+  {
+    "id": 1201,
+    "name": "济南印象城店",
+    "url": "https://cdn.haimati.cn/himo/b017c1b7e23f19f380928fafb6639e86.png"
+  },
+  {
+    "id": 1166,
+    "name": "济南恒隆广场店",
+    "url": "https://cdn.haimati.cn/himo/02523a00d51381b1819253d035382197.png"
+  },
+  {
+    "id": 1056,
+    "name": "济南领秀贵和店",
+    "url": "https://cdn.haimati.cn/himo/c4c235f2f6141dad38b14fe484dcc93c.png"
+  },
+  {
+    "id": 1140,
+    "name": "厦门中华城店",
+    "url": "https://cdn.haimati.cn/himo/58773ce906bd53de6a981c28337ac4af.png"
+  },
+  {
+    "id": 1214,
+    "name": "厦门五缘湾乐都汇店",
+    "url": "https://cdn.haimati.cn/himo/5124925db260a13fb953e81a3a041bbd.png"
+  },
+  {
+    "id": 1102,
+    "name": "厦门宝龙一城店",
+    "url": "https://cdn.haimati.cn/himo/0d35fab53c1796b69e050fa4dd5b962a.png"
+  },
+  {
+    "id": 1234,
+    "name": "厦门湖里万达广场店",
+    "url": "https://cdn.haimati.cn/himo/959fce4ffdec857d9e8835128dbcc060.png"
+  },
+  {
+    "id": 1188,
+    "name": "泉州中骏世界城店",
+    "url": "https://cdn.haimati.cn/himo/baaf8d6456c1fcb3d98911e4d0e45cfc.png"
+  },
+  {
+    "id": 1024,
+    "name": "泉州太古店",
+    "url": "https://cdn.haimati.cn/himo/9c87df5b2dfe5ad0898a63189eafcdf3.png"
+  },
+  {
+    "id": 1213,
+    "name": "泉州浦西万达广场店",
+    "url": "https://cdn.haimati.cn/himo/ec62d9ae5f7416efe9261a37fb368c12.png"
+  },
+  {
+    "id": 1235,
+    "name": "福州东街口大洋店",
+    "url": "https://cdn.haimati.cn/himo/bb00bda7ce59c9938e5343124afc7479.png"
+  },
+  {
+    "id": 1199,
+    "name": "福州仓山万象里店",
+    "url": "https://cdn.haimati.cn/himo/ddac8f3a19a6871fe748fae5b313034f.png"
+  },
+  {
+    "id": 1053,
+    "name": "福州泰禾广场店",
+    "url": "https://cdn.haimati.cn/himo/0ce67f1235064772d46bf82fd4755807.png"
+  },
+  {
+    "id": 1272,
+    "name": "福州苏宁广场店",
+    "url": "https://cdn.haimati.cn/himo/fa881051b784584ce88a1e4a9d09fe8d.png"
+  },
+  {
+    "id": 1357,
+    "name": "福州金融街万达广场店",
+    "url": "https://cdn.haimati.cn/himo/17552f164c200a6f5bb07b3321cf17cb.png"
+  },
+  {
+    "id": 1242,
+    "name": "青岛保利广场店",
+    "url": "https://cdn.haimati.cn/himo/0471ccf031a0108133f4d5bbdf933f6a.png"
+  },
+  {
+    "id": 1161,
+    "name": "青岛城阳万象汇店",
+    "url": "https://cdn.haimati.cn/himo/6bbebd702f6628cb57416616121316c8.png"
+  },
+  {
+    "id": 1168,
+    "name": "青岛李沧万达广场店",
+    "url": "https://cdn.haimati.cn/himo/875a9ebbbb7ac33f45a5abe30761efc8.png"
+  },
+  {
+    "id": 1013,
+    "name": "青岛金狮广场店",
+    "url": "https://cdn.haimati.cn/himo/5822c6387566ae14f0a956a5d968e8a6.png"
+  },
+  {
+    "id": 1162,
+    "name": "临沂泰盛广场店",
+    "url": "https://cdn.haimati.cn/himo/41b1a9accd50781f85f7c9fc0b1e26c8.png"
+  },
+  {
+    "id": 1126,
+    "name": "日照万象汇店",
+    "url": "https://cdn.haimati.cn/himo/eefc1a0c0b1efe4f7448c73b4063e10c.png"
+  },
+  {
+    "id": 1178,
+    "name": "淄博万象汇店",
+    "url": "https://cdn.haimati.cn/himo/fc0c06198806cae588bf4eb5e052413c.png"
+  },
+  {
+    "id": 1058,
+    "name": "烟台大悦城店",
+    "url": "https://cdn.haimati.cn/himo/5a85635e3e2c9fdc9e2202fff90b574b.png"
+  },
+  {
+    "id": 1167,
+    "name": "上海中山公园龙之梦店",
+    "url": "https://cdn.haimati.cn/himo/008ec7d8d5cdd37bc4e03bb615b7f623.png"
+  },
+  {
+    "id": 1237,
+    "name": "上海九亭金地广场店",
+    "url": "https://cdn.haimati.cn/himo/678ae6dd0b038e175265fcb8c076507c.png"
+  },
+  {
+    "id": 1189,
+    "name": "上海五角场万达广场店",
+    "url": "https://cdn.haimati.cn/himo/63836f610a9ae5e71f858534a02cab7c.png"
+  },
+  {
+    "id": 1220,
+    "name": "上海五角场合生汇店",
+    "url": "https://cdn.haimati.cn/himo/a36f204f4e48caf455b1db971d1b48c2.png"
+  },
+  {
+    "id": 1052,
+    "name": "上海人民广场来福士店",
+    "url": "https://cdn.haimati.cn/himo/2c73da92e60a846c5413ccecb73cc6ad.png"
+  },
+  {
+    "id": 1280,
+    "name": "上海复地活力城店",
+    "url": "https://cdn.haimati.cn/himo/fd49dce378a6fb63b3a01105ac44a122.png"
+  },
+  {
+    "id": 1163,
+    "name": "上海宝山万达广场店",
+    "url": "https://cdn.haimati.cn/himo/b4cc2777e7230425d1376c01ccac1d87.png"
+  },
+  {
+    "id": 1301,
+    "name": "上海晶耀前滩店",
+    "url": "https://cdn.haimati.cn/himo/04e76eead85068d28b935954eac5caac.png"
+  },
+  {
+    "id": 1057,
+    "name": "上海正大广场店",
+    "url": "https://cdn.haimati.cn/himo/62c9b7df2136b38b742c1d2e792fbdc2.png"
+  },
+  {
+    "id": 1233,
+    "name": "上海瑞虹天地月亮湾店",
+    "url": "https://cdn.haimati.cn/himo/23a47ed0044f3a8a145b139f639cf057.png"
+  },
+  {
+    "id": 1170,
+    "name": "上海白玉兰广场店",
+    "url": "https://cdn.haimati.cn/himo/c6230b60f44b722aa4020ac8b6b5f6ef.png"
+  },
+  {
+    "id": 1226,
+    "name": "上海百联南方购物中心店",
+    "url": "https://cdn.haimati.cn/himo/930160d0cafa285dac0b8106e33635ba.png"
+  },
+  {
+    "id": 1144,
+    "name": "上海第一百货商业中心店",
+    "url": "https://cdn.haimati.cn/himo/233dfa278762f3dcd34aada3e16766e1.png"
+  },
+  {
+    "id": 1109,
+    "name": "上海美罗城店",
+    "url": "https://cdn.haimati.cn/himo/b12400336d640ed818045c91712573fe.png"
+  },
+  {
+    "id": 1112,
+    "name": "上海虹口龙之梦店",
+    "url": "https://cdn.haimati.cn/himo/341401dadf20aea4961f1f2a964bbd92.png"
+  },
+  {
+    "id": 1122,
+    "name": "上海虹桥天地店",
+    "url": "https://cdn.haimati.cn/himo/83a16a151dd9a6112925b71e3c40e1a6.png"
+  },
+  {
+    "id": 1298,
+    "name": "上海长泰国际商业广场店",
+    "url": "https://cdn.haimati.cn/himo/3a158b3b1e89b5b636983af5c0d3d11e.png"
+  },
+  {
+    "id": 1017,
+    "name": "上海静安大悦城店",
+    "url": "https://cdn.haimati.cn/himo/e875a2bf945f26e6e987a57829ca9255.png"
+  },
+  {
+    "id": 1288,
+    "name": "上海静安大融城店",
+    "url": "https://cdn.haimati.cn/himo/6204eaf0b31a3695730bb5163c2daa8a.png"
+  },
+  {
+    "id": 1279,
+    "name": "上海龙湖宝山天街店",
+    "url": "https://cdn.haimati.cn/himo/27ee3ae05ac7df4f56fcf4c30cc4f087.png"
+  },
+  {
+    "id": 1090,
+    "name": "宁波印象城店",
+    "url": "https://cdn.haimati.cn/himo/cb518386ecefe3e9df8c5b950c94ce74.png"
+  },
+  {
+    "id": 1006,
+    "name": "宁波天一广场店",
+    "url": "https://cdn.haimati.cn/himo/d84bbdf320564647f9dc009423a8a90f.png"
+  },
+  {
+    "id": 1128,
+    "name": "宁波环球银泰城店",
+    "url": "https://cdn.haimati.cn/himo/0cd041d7d5451a42576b95189ea911ed.png"
+  },
+  {
+    "id": 1113,
+    "name": "北京中海环宇荟店",
+    "url": "https://cdn.haimati.cn/himo/9066f329855ecee731faf835adab87e3.png"
+  },
+  {
+    "id": 1315,
+    "name": "北京凯德MALL望京店",
+    "url": "https://cdn.haimati.cn/himo/0f32c46502bb398701fa8e3b9f14f729.png"
+  },
+  {
+    "id": 1107,
+    "name": "北京合生汇店",
+    "url": "https://cdn.haimati.cn/himo/53f2527f0c18728fb8454d22c88042ac.png"
+  },
+  {
+    "id": 1246,
+    "name": "北京合生麒麟新天地店",
+    "url": "https://cdn.haimati.cn/himo/862e441cbbd776b042d05dd8be248529.png"
+  },
+  {
+    "id": 1222,
+    "name": "北京大兴国际机场HIMO TRAVEL店",
+    "url": "https://cdn.haimati.cn/himo/c11824698de1ab5991774ffd7f528299.png"
+  },
+  {
+    "id": 1105,
+    "name": "北京大族广场店",
+    "url": "https://cdn.haimati.cn/himo/285f931afb18bd2eb16e8d19486c54b7.png"
+  },
+  {
+    "id": 1206,
+    "name": "北京新奥购物中心店",
+    "url": "https://cdn.haimati.cn/himo/960b78b9549b116b881ca88ae01f375c.png"
+  },
+  {
+    "id": 1182,
+    "name": "北京来福士购物中心店",
+    "url": "https://cdn.haimati.cn/himo/30798661cd6c1e318fddc937768f92b2.png"
+  },
+  {
+    "id": 1181,
+    "name": "北京远洋未来广场店",
+    "url": "https://cdn.haimati.cn/himo/856d3a004d91dc4785f08ae3148d1384.png"
+  },
+  {
+    "id": 1193,
+    "name": "天津凯德MALL·天津湾店",
+    "url": "https://cdn.haimati.cn/himo/98fbb74d4e422bb7cfda433d46264751.png"
+  },
+  {
+    "id": 1133,
+    "name": "天津南开大悦城店",
+    "url": "https://cdn.haimati.cn/himo/d59cd51f0d845a243365d8fcc4a1f0f9.png"
+  },
+  {
+    "id": 1304,
+    "name": "天津梅江永旺梦乐城店",
+    "url": "https://cdn.haimati.cn/himo/452c44c60530abe685a1698e68c425b4.png"
+  },
+  {
+    "id": 1299,
+    "name": "北京万科半岛广场店",
+    "url": "https://cdn.haimati.cn/himo/65b1d9635c1a8669c4dd322cb79d351d.png"
+  },
+  {
+    "id": 1361,
+    "name": "北京中粮祥云小镇店",
+    "url": "https://cdn.haimati.cn/himo/1c7ba6fd14e636d25b4bc296143ad861.png"
+  },
+  {
+    "id": 1267,
+    "name": "北京凯德MALL大峡谷店",
+    "url": "https://cdn.haimati.cn/himo/27625b8072976aebc1c6ad00b428bf93.png"
+  },
+  {
+    "id": 1265,
+    "name": "北京凯德MALL晶品店",
+    "url": "https://cdn.haimati.cn/himo/d92af726d73bb11ca84d60f62d952857.png"
+  },
+  {
+    "id": 1287,
+    "name": "北京国瑞购物中心店",
+    "url": "https://cdn.haimati.cn/himo/cfd70da614c8dd266b48bfd40b94b30a.png"
+  },
+  {
+    "id": 1147,
+    "name": "北京天宫院凯德店",
+    "url": "https://cdn.haimati.cn/himo/eed8df94f24c358471ff47d5293545b9.png"
+  },
+  {
+    "id": 1285,
+    "name": "北京摩方购物中心店",
+    "url": "https://cdn.haimati.cn/himo/ca6c3c3f95bd7e94f519da5dccc821a1.png"
+  },
+  {
+    "id": 1292,
+    "name": "北京槐房万达广场店",
+    "url": "https://cdn.haimati.cn/himo/044ccc12c7a3d76d7f9a10482461c24c.png"
+  },
+  {
+    "id": 1172,
+    "name": "北京石景山万达广场店",
+    "url": "https://cdn.haimati.cn/himo/21384ed3b0f6692cc14a2811e19f648c.png"
+  },
+  {
+    "id": 1051,
+    "name": "北京荟聚中心店",
+    "url": "https://cdn.haimati.cn/himo/56f94758d12f9b6738757857b6a2994f.png"
+  },
+  {
+    "id": 1076,
+    "name": "北京西单大悦城店",
+    "url": "https://cdn.haimati.cn/himo/4a786d47d9d7ba62b90e93aa5e73dcec.png"
+  },
+  {
+    "id": 1205,
+    "name": "北京金地广场店",
+    "url": "https://cdn.haimati.cn/himo/59c73e50bd36eb4b4ae2cff9d16653e2.png"
+  },
+  {
+    "id": 1270,
+    "name": "北京龙湖大兴天街店",
+    "url": "https://cdn.haimati.cn/himo/4a8fdc75cca1d0f08c66461202109aee.png"
+  },
+  {
+    "id": 1129,
+    "name": "北京龙湖房山天街店",
+    "url": "https://cdn.haimati.cn/himo/e2638d0091bd88af9dc98b4a51890554.png"
+  },
+  {
+    "id": 1255,
+    "name": "北京龙湖长安天街店",
+    "url": "https://cdn.haimati.cn/himo/068043820a47804c13dcc735cd3b2cf5.png"
+  },
+  {
+    "id": 1020,
+    "name": "天津世纪都会店",
+    "url": "https://cdn.haimati.cn/himo/de7f92ce6b3198754dcfaa71c54cc345.png"
+  },
+  {
+    "id": 1321,
+    "name": "天津嘉里汇店",
+    "url": "https://cdn.haimati.cn/himo/0e962014b92d2f4fe14dc02a8548bb7a.png"
+  },
+  {
+    "id": 1294,
+    "name": "天津恒隆广场店",
+    "url": "https://cdn.haimati.cn/himo/e5ce3e28261fc9c554fb281e5e210d44.png"
+  },
+  {
+    "id": 1344,
+    "name": "天津河东爱琴海购物公园店",
+    "url": "https://cdn.haimati.cn/himo/39c263d35fea3c1e0c13d021fbc01a3c.png"
+  },
+  {
+    "id": 1131,
+    "name": "太原万象城店",
+    "url": "https://cdn.haimati.cn/himo/d2278d60cdc8f04fc61144011af8dc8e.png"
+  },
+  {
+    "id": 1219,
+    "name": "太原公元时代MALL店",
+    "url": "https://cdn.haimati.cn/himo/c6043ce8ce63aa5ba4ce6d243c150135.png"
+  },
+  {
+    "id": 1096,
+    "name": "太原北美新天地店",
+    "url": "https://cdn.haimati.cn/himo/3fd0bb589b5a5759dcdce36b613279dd.png"
+  },
+  {
+    "id": 1330,
+    "name": "太原印象城店",
+    "url": "https://cdn.haimati.cn/himo/a0d5fd96496e9c328d2f2b9fc9899063.png"
+  },
+  {
+    "id": 1286,
+    "name": "太原茂业天地店",
+    "url": "https://cdn.haimati.cn/himo/48d9a5d01bbb887e2967a8d570cade5d.png"
+  },
+  {
+    "id": 1145,
+    "name": "石家庄万象城店",
+    "url": "https://cdn.haimati.cn/himo/3f2b689d27fd167790a4d4273a850bbe.png"
+  },
+  {
+    "id": 1045,
+    "name": "石家庄万达广场店",
+    "url": "https://cdn.haimati.cn/himo/c254a6e943ac4ff406788735251714c3.png"
+  },
+  {
+    "id": 1028,
+    "name": "石家庄勒泰中心店",
+    "url": "https://cdn.haimati.cn/himo/1fbed095bc6c875f19f2165916effd64.png"
+  },
+  {
+    "id": 1347,
+    "name": "石家庄长安万达广场店",
+    "url": "https://cdn.haimati.cn/himo/671f9a76f724307eed72b41b0f7c46be.png"
+  },
+  {
+    "id": 1293,
+    "name": "秦皇岛乐都汇店",
+    "url": "https://cdn.haimati.cn/himo/e0bc47def15a2e4f3050e47c0e8a9ad6.png"
+  },
+  {
+    "id": 1208,
+    "name": "南昌王府井购物中心店",
+    "url": "https://cdn.haimati.cn/himo/9c7e53d48da46f8ed06d9d2f7cb130d5.png"
+  },
+  {
+    "id": 1118,
+    "name": "南昌铜锣湾T16广场店",
+    "url": "https://cdn.haimati.cn/himo/6e5a1c19715811fb8a3bef6ebfefc598.png"
+  },
+  {
+    "id": 1173,
+    "name": "呼和浩特海亮广场店",
+    "url": "https://cdn.haimati.cn/himo/85e4e2393dc5f74927006f9dfa288f50.png"
+  },
+  {
+    "id": 1012,
+    "name": "武汉光谷步行街店",
+    "url": "https://cdn.haimati.cn/himo/fb97c7bf956faeed6f3a98eea70cdfda.png"
+  },
+  {
+    "id": 1369,
+    "name": "武汉凯德广场武胜店",
+    "url": "https://cdn.haimati.cn/himo/9f9877c073744d4f724087f6553c17c1.png"
+  },
+  {
+    "id": 1121,
+    "name": "武汉壹方购物中心店",
+    "url": "https://cdn.haimati.cn/himo/1dffeb253bf0010653724500e6ca5fd5.png"
+  },
+  {
+    "id": 1103,
+    "name": "武汉荟聚中心店",
+    "url": "https://cdn.haimati.cn/himo/d7dbc40a84265b115756d815a3a76446.png"
+  },
+  {
+    "id": 1290,
+    "name": "郑州YOYOPARK店",
+    "url": "https://cdn.haimati.cn/himo/5baa4b2b62669bb10a239a4825c1ad25.png"
+  },
+  {
+    "id": 1223,
+    "name": "郑州大卫城店",
+    "url": "https://cdn.haimati.cn/himo/bbdcaf2afb3ed2046e27b3e355bf5506.png"
+  },
+  {
+    "id": 1328,
+    "name": "郑州新田360广场国贸店",
+    "url": "https://cdn.haimati.cn/himo/8d8770c6ff8a1a3a8762abc4818cf93d.png"
+  },
+  {
+    "id": 1151,
+    "name": "郑州正弘城店",
+    "url": "https://cdn.haimati.cn/himo/b1680f855b56776bded7d1270fe365dd.png"
+  },
+  {
+    "id": 1155,
+    "name": "长沙凯德壹中心店",
+    "url": "https://cdn.haimati.cn/himo/900ca9c27a0b573caf13c2fe0f52bb9e.png"
+  },
+  {
+    "id": 1120,
+    "name": "长沙国金街店",
+    "url": "https://cdn.haimati.cn/himo/0168093cc77b55aa83a3d657c5097eba.png"
+  },
+  {
+    "id": 1124,
+    "name": "长沙德思勤城市广场店",
+    "url": "https://cdn.haimati.cn/himo/a4ab7a2b86c01d12b006c7f4d6aaef38.png"
+  },
+  {
+    "id": 1064,
+    "name": "长沙悦方店",
+    "url": "https://cdn.haimati.cn/himo/1a6758404d7428ae6084cc6adfee0973.png"
+  },
+  {
+    "id": 1149,
+    "name": "长沙星沙吾悦广场店",
+    "url": "https://cdn.haimati.cn/himo/94a56be76dc810df5eae208adfc00118.png"
+  },
+  {
+    "id": 1007,
+    "name": "哈尔滨凯德广场店",
+    "url": "https://cdn.haimati.cn/himo/a16a51072903841ed12ae66a76108c51.png"
+  },
+  {
+    "id": 1146,
+    "name": "哈尔滨卓展店",
+    "url": "https://cdn.haimati.cn/himo/2714d1f7213f61b6d7c21dd62fee01fa.png"
+  },
+  {
+    "id": 1284,
+    "name": "哈尔滨红博中央公园店",
+    "url": "https://cdn.haimati.cn/himo/847896d9529e689b355096b9387fac73.png"
+  },
+  {
+    "id": 1117,
+    "name": "哈尔滨远大购物中心店",
+    "url": "https://cdn.haimati.cn/himo/8146afb4833ba269b41881e077b16358.png"
+  },
+  {
+    "id": 1036,
+    "name": "哈尔滨金安欧罗巴店",
+    "url": "https://cdn.haimati.cn/himo/7b6da287f8491f722df9c91132064b4a.png"
+  },
+  {
+    "id": 1334,
+    "name": "大连亿合城店",
+    "url": "https://cdn.haimati.cn/himo/af5ec2da21b735f41259d24dfd47bec3.png"
+  },
+  {
+    "id": 1300,
+    "name": "大连凯丹广场店",
+    "url": "https://cdn.haimati.cn/himo/cc8e524a872d33f579d62f87af5487ca.png"
+  },
+  {
+    "id": 1244,
+    "name": "大连恒隆广场店",
+    "url": "https://cdn.haimati.cn/himo/1e9f19f2665b1b650700fa298c9b0ebe.png"
+  },
+  {
+    "id": 1047,
+    "name": "大连柏威年购物中心店",
+    "url": "https://cdn.haimati.cn/himo/4f8ee2957f91267b0be8e27e0016bdb4.png"
+  },
+  {
+    "id": 1010,
+    "name": "大连罗斯福广场店",
+    "url": "https://cdn.haimati.cn/himo/59117f4c30b307bc28582e73ba8651b3.png"
+  },
+  {
+    "id": 1137,
+    "name": "沈阳K11购物中心店",
+    "url": "https://cdn.haimati.cn/himo/9c8841446cb27712c4b3c63d9dc5fa23.png"
+  },
+  {
+    "id": 1049,
+    "name": "沈阳万象汇店",
+    "url": "https://cdn.haimati.cn/himo/435b593e51e50651554dd7fce30be4be.png"
+  },
+  {
+    "id": 1243,
+    "name": "沈阳中街皇城恒隆广场店",
+    "url": "https://cdn.haimati.cn/himo/d9fbdf532c7174c3b63fac4ba70f7072.png"
+  },
+  {
+    "id": 1035,
+    "name": "沈阳大悦城店",
+    "url": "https://cdn.haimati.cn/himo/2b1427760a8264208228a2a147de826f.png"
+  },
+  {
+    "id": 1345,
+    "name": "沈阳星摩尔购物中心店",
+    "url": "https://cdn.haimati.cn/himo/ad144110965d3fc43da6a11325e5237f.png"
+  },
+  {
+    "id": 1088,
+    "name": "长春卓展店",
+    "url": "https://cdn.haimati.cn/himo/ef0248d6d773ff37a1e3da56297a8293.png"
+  },
+  {
+    "id": 1341,
+    "name": "长春摩天活力城MALL店",
+    "url": "https://cdn.haimati.cn/himo/eed408a3d8d1ca0d831d3a62c7b01ac0.png"
+  },
+  {
+    "id": 1009,
+    "name": "长春欧亚商都店",
+    "url": "https://cdn.haimati.cn/himo/b6942e72dc1b5cafd78fc04320585e03.png"
+  },
+  {
+    "id": 1323,
+    "name": "长春红旗街万达广场店",
+    "url": "https://cdn.haimati.cn/himo/b1a8f4ba82d30d246eea133e7ff456ac.png"
+  },
+  {
+    "id": 1329,
+    "name": "鞍山万象汇店",
+    "url": "https://cdn.haimati.cn/himo/aaf042e0dcdcba258ff8813e36cf69e9.png"
+  },
+  {
+    "id": 1183,
+    "name": "北京世贸天阶店",
+    "url": "https://cdn.haimati.cn/himo/02c5421d3e46b4f6c37a58897aa94a14.png"
+  },
+  {
+    "id": 1171,
+    "name": "北京五彩城店",
+    "url": "https://cdn.haimati.cn/himo/eb4398038082616cefacf9f546b1b943.png"
+  },
+  {
+    "id": 1317,
+    "name": "北京印象城店",
+    "url": "https://cdn.haimati.cn/himo/8bfbd97d66943264e8c61926c4c68317.png"
+  },
+  {
+    "id": 1316,
+    "name": "北京富力广场店",
+    "url": "https://cdn.haimati.cn/himo/5c4e3c744f735f2071c4149389263d1b.png"
+  },
+  {
+    "id": 1318,
+    "name": "北京悠唐购物中心店",
+    "url": "https://cdn.haimati.cn/himo/e22bffb3cb4b33bd696e95ca66e81137.png"
+  },
+  {
+    "id": 1353,
+    "name": "北京悦荟广场店",
+    "url": "https://cdn.haimati.cn/himo/8aaed999b17fccf95a852d1b535766ee.png"
+  },
+  {
+    "id": 1141,
+    "name": "北京昌发展万科广场店",
+    "url": "https://cdn.haimati.cn/himo/021d23c1b40c4d30fb69085804ebdf81.png"
+  },
+  {
+    "id": 1303,
+    "name": "北京昌平永旺国际商城店",
+    "url": "https://cdn.haimati.cn/himo/85f09b00c6652bc81cad5f53cf2c62d2.png"
+  },
+  {
+    "id": 1224,
+    "name": "北京朝阳大悦城店",
+    "url": "https://cdn.haimati.cn/himo/bcd7b0780a4fae07ce5a572ae3e64b8d.png"
+  },
+  {
+    "id": 1134,
+    "name": "北京欧美汇店",
+    "url": "https://cdn.haimati.cn/himo/5aaeed2c8297ce8a129b3f720260e256.png"
+  },
+  {
+    "id": 1258,
+    "name": "北京金源燕莎MALL店",
+    "url": "https://cdn.haimati.cn/himo/622a3011f34d16bbaadeb964644a0c14.png"
+  },
+  {
+    "id": 1108,
+    "name": "北京龙湖长楹天街店",
+    "url": "https://cdn.haimati.cn/himo/cdeeb5d3f686c37b8e3fbe440ff19e66.png"
+  },
+  {
+    "id": 1195,
+    "name": "佛山南海万达广场店",
+    "url": "https://cdn.haimati.cn/himo/2073580a975a463035fb27b376f62144.png"
+  },
+  {
+    "id": 1055,
+    "name": "佛山岭南站店",
+    "url": "https://cdn.haimati.cn/himo/3b67a8a821e5d361d7290b6959ae4fa6.png"
+  },
+  {
+    "id": 1097,
+    "name": "广州万菱汇店",
+    "url": "https://cdn.haimati.cn/himo/05f4467e57324c8b8d72b88002f12308.png"
+  },
+  {
+    "id": 1114,
+    "name": "广州乐峰广场店",
+    "url": "https://cdn.haimati.cn/himo/56187b748a985bef1a56b668568c229d.png"
+  },
+  {
+    "id": 1087,
+    "name": "广州凯德云尚店",
+    "url": "https://cdn.haimati.cn/himo/360570c0f59a26b00160d1bffb42db62.png"
+  },
+  {
+    "id": 1018,
+    "name": "广州太阳新天地店",
+    "url": "https://cdn.haimati.cn/himo/4b64423be3d09e767d3297dd19e10a88.png"
+  },
+  {
+    "id": 1175,
+    "name": "广州新世界云门New park店",
+    "url": "https://cdn.haimati.cn/himo/2a1e52995106e5ab053c822328d4618f.png"
+  },
+  {
+    "id": 1092,
+    "name": "广州正佳广场店",
+    "url": "https://cdn.haimati.cn/himo/6cb142682cd774bf60b6a49e7d578dbb.png"
+  },
+  {
+    "id": 1180,
+    "name": "广州番禺奥园广场店",
+    "url": "https://cdn.haimati.cn/himo/04d774392d093bbcae31f8fcc9808c10.png"
+  },
+  {
+    "id": 1311,
+    "name": "广州番禺永旺梦乐城店",
+    "url": "https://cdn.haimati.cn/himo/badbe626736190180290985fc58ee6a7.png"
+  },
+  {
+    "id": 1289,
+    "name": "广州白云万达广场店",
+    "url": "https://cdn.haimati.cn/himo/3ec40c73a1d8f6be35ac331bd32bc47e.png"
+  },
+  {
+    "id": 1217,
+    "name": "广州西城都荟店",
+    "url": "https://cdn.haimati.cn/himo/94f0bb7745aba712fae4fea431efe8d3.png"
+  },
+  {
+    "id": 1148,
+    "name": "广州金沙洲永旺梦乐城店",
+    "url": "https://cdn.haimati.cn/himo/24b25c2bbef38b11af4f27e01143e764.png"
+  },
+  {
+    "id": 1297,
+    "name": "中山利和广场店",
+    "url": "https://cdn.haimati.cn/himo/8a7419167614ac30b3c8b8bcbd1d3fc8.png"
+  },
+  {
+    "id": 1176,
+    "name": "南宁会展航洋城店",
+    "url": "https://cdn.haimati.cn/himo/2467c006605d5a04441a96133cfdee50.png"
+  },
+  {
+    "id": 1249,
+    "name": "南宁青秀万达广场店",
+    "url": "https://cdn.haimati.cn/himo/2b309019ca0a70ad3a83b2fb40bc92cc.png"
+  },
+  {
+    "id": 1291,
+    "name": "柳州万象城店",
+    "url": "https://cdn.haimati.cn/himo/94e2f6851ad7a861528bd0f75406b59d.png"
+  },
+  {
+    "id": 1142,
+    "name": "海口宜欣城店",
+    "url": "https://cdn.haimati.cn/himo/be84e1521f39f2037607d2342fa99937.png"
+  },
+  {
+    "id": 1037,
+    "name": "海口日月广场店",
+    "url": "https://cdn.haimati.cn/himo/2cbf60926c51ae193f47f692128ef0e1.png"
+  },
+  {
+    "id": 1165,
+    "name": "合肥之心城店",
+    "url": "https://cdn.haimati.cn/himo/497d2d00595243b3d65181ae80192959.png"
+  },
+  {
+    "id": 1081,
+    "name": "合肥包河万达广场店",
+    "url": "https://cdn.haimati.cn/himo/227d49aa7774dbab76937ff50454788f.png"
+  },
+  {
+    "id": 1011,
+    "name": "合肥政务区银泰城店",
+    "url": "https://cdn.haimati.cn/himo/5a203edddf58a2de7a415cc8808521f4.png"
+  },
+  {
+    "id": 1362,
+    "name": "合肥正大广场店",
+    "url": "https://cdn.haimati.cn/himo/d90c54b69b846d4b3fc3714eb4f32b79.png"
+  },
+  {
+    "id": 1164,
+    "name": "合肥滨湖银泰城店",
+    "url": "https://cdn.haimati.cn/himo/be8cef0ac62840242c2683adddeb4f8a.png"
+  },
+  {
+    "id": 1276,
+    "name": "合肥漫乐城店",
+    "url": "https://cdn.haimati.cn/himo/e1bc51d5d76a3f325fb194c86158f001.png"
+  },
+  {
+    "id": 1262,
+    "name": "合肥龙湖瑶海天街店",
+    "url": "https://cdn.haimati.cn/himo/571a1acd1b9a76387344d3e2ccc33127.png"
+  },
+  {
+    "id": 1042,
+    "name": "常州吾悦广场店",
+    "url": "https://cdn.haimati.cn/himo/998a8ede5a3dfeb97a3d0e37363caf74.png"
+  },
+  {
+    "id": 1238,
+    "name": "常州新北万达广场店",
+    "url": "https://cdn.haimati.cn/himo/217d07d4370a3f8f1132cdbc043902fa.png"
+  },
+  {
+    "id": 1256,
+    "name": "常州武进吾悦广场店",
+    "url": "https://cdn.haimati.cn/himo/d73e2fd47db0c47e3128ec79528bbf5e.png"
+  },
+  {
+    "id": 1247,
+    "name": "扬州万象汇店",
+    "url": "https://cdn.haimati.cn/himo/2adc2f7b3a723730b82869ce1a67106a.png"
+  },
+  {
+    "id": 1086,
+    "name": "扬州万达广场店",
+    "url": "https://cdn.haimati.cn/himo/824fc802136486d3366011a6a35a5238.png"
+  },
+  {
+    "id": 1207,
+    "name": "无锡万象城店",
+    "url": "https://cdn.haimati.cn/himo/8ede56cfd6a500d9bf9ab459d1cae0ce.png"
+  },
+  {
+    "id": 1116,
+    "name": "无锡恒隆广场店",
+    "url": "https://cdn.haimati.cn/himo/1f585eb46406b3bd4e71b54bd48e02fb.png"
+  },
+  {
+    "id": 1229,
+    "name": "无锡清扬茂业天地店",
+    "url": "https://cdn.haimati.cn/himo/a02adafd53ed554bb0d4ae680730f619.png"
+  },
+  {
+    "id": 1302,
+    "name": "无锡滨湖万达广场店",
+    "url": "https://cdn.haimati.cn/himo/74ca03b2b8cfb499a15afadea8ab2b6a.png"
+  },
+  {
+    "id": 1338,
+    "name": "无锡苏宁广场店",
+    "url": "https://cdn.haimati.cn/himo/c80fdb8a4d296e415adf13da763ed390.png"
+  },
+  {
+    "id": 1060,
+    "name": "无锡荟聚中心店",
+    "url": "https://cdn.haimati.cn/himo/fcd12237b38c4700bb32f1ac754ff4af.png"
+  },
+  {
+    "id": 1259,
+    "name": "昆山万象汇店",
+    "url": "https://cdn.haimati.cn/himo/2ae68ef54b0af8df6a96e736d20417d7.png"
+  },
+  {
+    "id": 1041,
+    "name": "昆山金鹰国际店",
+    "url": "https://cdn.haimati.cn/himo/332185f922978584a585f47bb856daa6.png"
+  },
+  {
+    "id": 1211,
+    "name": "芜湖八佰伴店",
+    "url": "https://cdn.haimati.cn/himo/a0686ea43dbe6fb7625e21f83ec16d0a.png"
+  },
+  {
+    "id": 1104,
+    "name": "芜湖银泰城店",
+    "url": "https://cdn.haimati.cn/himo/09a9df8179cf453b3f81d498a85eea74.png"
+  },
+  {
+    "id": 1082,
+    "name": "苏州中心店",
+    "url": "https://cdn.haimati.cn/himo/a65320e4214e5218462a6e8bcd99af0d.png"
+  },
+  {
+    "id": 1200,
+    "name": "苏州吴江万象汇店",
+    "url": "https://cdn.haimati.cn/himo/28464e8caae06e82e43b41c940495e9b.png"
+  },
+  {
+    "id": 1204,
+    "name": "苏州吴江新湖广场店",
+    "url": "https://cdn.haimati.cn/himo/6cb567510c9a710ddf8a2242eef01fea.png"
+  },
+  {
+    "id": 1248,
+    "name": "苏州石路天虹CCmall店",
+    "url": "https://cdn.haimati.cn/himo/45f58225f15baf224d5f3dd6f24ec103.png"
+  },
+  {
+    "id": 1078,
+    "name": "苏州龙湖狮山天街店",
+    "url": "https://cdn.haimati.cn/himo/11a9395d40549b86e64725d2e51ab2ad.png"
+  },
+  {
+    "id": 1305,
+    "name": "蚌埠银泰城店",
+    "url": "https://cdn.haimati.cn/himo/69d03238394c1519c6b81897e1698ff3.png"
+  },
+  {
+    "id": 1197,
+    "name": "南京华采天地店",
+    "url": "https://cdn.haimati.cn/himo/37045b2aa527500c013810c9e5f684e4.png"
+  },
+  {
+    "id": 1139,
+    "name": "南京建邺万达广场店",
+    "url": "https://cdn.haimati.cn/himo/3960495503c61dc8ae1d9353865e1e52.png"
+  },
+  {
+    "id": 1228,
+    "name": "南京弘阳广场店",
+    "url": "https://cdn.haimati.cn/himo/cc68457aecf524bb6826bdfe2c6cc0c7.png"
+  },
+  {
+    "id": 1034,
+    "name": "南京景枫KINGMO店",
+    "url": "https://cdn.haimati.cn/himo/32b16495a4733b21c9ead73b7e5ca3dd.png"
+  },
+  {
+    "id": 1015,
+    "name": "南京虹悦城店",
+    "url": "https://cdn.haimati.cn/himo/e0efe204f286cfe964838d8792fc8461.png"
+  },
+  {
+    "id": 1127,
+    "name": "南京金鹰新街口店",
+    "url": "https://cdn.haimati.cn/himo/b44952884d5d1c9c9a5cb81d9b67a0ad.png"
+  },
+  {
+    "id": 1283,
+    "name": "南京龙湖六合天街店",
+    "url": "https://cdn.haimati.cn/himo/8bbfcdad4aa62c154353bf6b6537c4b0.png"
+  },
+  {
+    "id": 1324,
+    "name": "南京龙湖龙湾天街店",
+    "url": "https://cdn.haimati.cn/himo/b34ea98fe71398245831d5d0be713751.png"
+  },
+  {
+    "id": 1132,
+    "name": "南通万象城店",
+    "url": "https://cdn.haimati.cn/himo/20c8f9364e92a2fb5d776c914402035c.png"
+  },
+  {
+    "id": 1106,
+    "name": "南通中南城店",
+    "url": "https://cdn.haimati.cn/himo/f213e8650f145a95106f531d9c8c7a79.png"
+  },
+  {
+    "id": 1239,
+    "name": "徐州复兴苏宁广场店",
+    "url": "https://cdn.haimati.cn/himo/a1e1e87a2ad69ab21b4529cd979a9467.png"
+  },
+  {
+    "id": 1063,
+    "name": "徐州苏宁广场店",
+    "url": "https://cdn.haimati.cn/himo/d2154b886e7e155ef5409f0dceb42411.png"
+  },
+  {
+    "id": 1227,
+    "name": "嘉兴YINTAI PLACE店",
+    "url": "https://cdn.haimati.cn/himo/8ded53a00dcaa4dfcd0ab68ef3f0b521.png"
+  },
+  {
+    "id": 1061,
+    "name": "嘉兴八佰伴店",
+    "url": "https://cdn.haimati.cn/himo/f4ff3c0dc8ce916cfc89edd663bd5395.png"
+  },
+  {
+    "id": 1021,
+    "name": "湖州银泰城店",
+    "url": "https://cdn.haimati.cn/himo/5eb585c73c9a0552d2640c31e9dc1d15.png"
+  },
+  {
+    "id": 1031,
+    "name": "衢州国金中心店",
+    "url": "https://cdn.haimati.cn/himo/51a3ac39a58dca39d0a135fe331da3c4.png"
+  },
+  {
+    "id": 1008,
+    "name": "诸暨雄风新天地店",
+    "url": "https://cdn.haimati.cn/himo/ddbf9542bb10e38245e6e464879b07a9.png"
+  },
+  {
+    "id": 1271,
+    "name": "台州青悦城店",
+    "url": "https://cdn.haimati.cn/himo/476998b4ea6c9f845cfa17642b2e2b6a.png"
+  },
+  {
+    "id": 1337,
+    "name": "温岭银泰城店",
+    "url": "https://cdn.haimati.cn/himo/380a0631f84da745b5b8d9c11841b857.png"
+  },
+  {
+    "id": 1014,
+    "name": "温州万象城店",
+    "url": "https://cdn.haimati.cn/himo/e0bfb56491134c98d427e8d09c65c8a1.png"
+  },
+  {
+    "id": 1016,
+    "name": "绍兴银泰城店",
+    "url": "https://cdn.haimati.cn/himo/0b0839d92dcbca7ecfaf1fba4e4304d5.png"
+  },
+  {
+    "id": 1026,
+    "name": "金华永盛购物中心店",
+    "url": "https://cdn.haimati.cn/himo/c037ec882fae8ca340ece38a6c876bf7.png"
+  },
+  {
+    "id": 1080,
+    "name": "深圳万象天地店",
+    "url": "https://cdn.haimati.cn/himo/c2311ce36315e463b71763367de8f213.png"
+  },
+  {
+    "id": 1138,
+    "name": "深圳京基KK ONE店",
+    "url": "https://cdn.haimati.cn/himo/bf9e2eebd0ddca6ed77c63e8c077804a.png"
+  },
+  {
+    "id": 1278,
+    "name": "深圳京基KKMALL店",
+    "url": "https://cdn.haimati.cn/himo/faed63c63064670cb8b2cc665f9451e9.png"
+  },
+  {
+    "id": 1185,
+    "name": "深圳华强北九方购物中心店",
+    "url": "https://cdn.haimati.cn/himo/f3ca8ee923f93ee5eb7caec442e3ac3b.png"
+  },
+  {
+    "id": 1094,
+    "name": "深圳华润万象汇店",
+    "url": "https://cdn.haimati.cn/himo/3f1ff2c941cbad9b8ac001ed96bd57f6.png"
+  },
+  {
+    "id": 1203,
+    "name": "深圳卓悦中心店",
+    "url": "https://cdn.haimati.cn/himo/90e595d883c82229769450df14f7a995.png"
+  },
+  {
+    "id": 1356,
+    "name": "深圳印力中心店",
+    "url": "https://cdn.haimati.cn/himo/1b0bf0a52125b097766c4b9f79e4278a.png"
+  },
+  {
+    "id": 1253,
+    "name": "深圳宝安大仟里店",
+    "url": "https://cdn.haimati.cn/himo/7292e10e0306b41e1d1a6cbb618c0321.png"
+  },
+  {
+    "id": 1196,
+    "name": "深圳平安金融中心店",
+    "url": "https://cdn.haimati.cn/himo/5bb441c0870b7b8303d6aa45c7ecfce0.png"
+  },
+  {
+    "id": 1119,
+    "name": "深圳新城市广场店",
+    "url": "https://cdn.haimati.cn/himo/06d12ddd616eea6c48d3cafb8f988859.png"
+  },
+  {
+    "id": 1065,
+    "name": "深圳来福士店",
+    "url": "https://cdn.haimati.cn/himo/7db51b46711e29040ca1cb988fb7ab7f.png"
+  },
+  {
+    "id": 1085,
+    "name": "深圳海雅缤纷城店",
+    "url": "https://cdn.haimati.cn/himo/68e941841a58dd3a4b885762aa6073d1.png"
+  },
+  {
+    "id": 1252,
+    "name": "深圳红山6979店",
+    "url": "https://cdn.haimati.cn/himo/b9a6feb782af5e52ad153585299097cc.png"
+  },
+  {
+    "id": 1250,
+    "name": "深圳观澜湖新城 MH mall店",
+    "url": "https://cdn.haimati.cn/himo/92845bb838a28f75f85a4a776edcb898.png"
+  },
+  {
+    "id": 1191,
+    "name": "深圳金光华广场店",
+    "url": "https://cdn.haimati.cn/himo/f5d2d3a423ea22a81a767627723c5a3b.png"
+  },
+  {
+    "id": 1327,
+    "name": "深圳领展中心城店",
+    "url": "https://cdn.haimati.cn/himo/3a7b7f27ffe5fc3a86a6765c66694d5b.png"
+  },
+  {
+    "id": 1179,
+    "name": "深圳龙岗万科广场店",
+    "url": "https://cdn.haimati.cn/himo/652ac3f6ed9da77ee9153574f95d9d14.png"
+  },
+  {
+    "id": 1174,
+    "name": "昆明同德广场店",
+    "url": "https://cdn.haimati.cn/himo/82556d0123303e1d53ace7cbb845d232.png"
+  },
+  {
+    "id": 1154,
+    "name": "昆明大悦城店",
+    "url": "https://cdn.haimati.cn/himo/14931446d6b866309ee616e2e67a4b8f.png"
+  },
+  {
+    "id": 1098,
+    "name": "昆明广福路爱琴海店",
+    "url": "https://cdn.haimati.cn/himo/28747582d8fb8e5f1ecefb9be75d7c47.png"
+  },
+  {
+    "id": 1225,
+    "name": "昆明瑞鼎城爱琴海店",
+    "url": "https://cdn.haimati.cn/himo/69359a3dcc1470ac0e238d1081becff1.png"
+  },
+  {
+    "id": 1054,
+    "name": "昆明顺城店",
+    "url": "https://cdn.haimati.cn/himo/cdacc803675c6fb47603b086d57a0178.png"
+  },
+  {
+    "id": 1282,
+    "name": "贵阳印象城店",
+    "url": "https://cdn.haimati.cn/himo/77a72f8992a9e5119acd9bbcce98d978.png"
+  },
+  {
+    "id": 1339,
+    "name": "贵阳鸿通城店",
+    "url": "https://cdn.haimati.cn/himo/b51cba69455afe452dba493500f6f325.png"
+  },
+  {
+    "id": 1257,
+    "name": "成都仁和新城店",
+    "url": "https://cdn.haimati.cn/himo/58d00bb6fc7885c5451d42e637d53a26.png"
+  },
+  {
+    "id": 1266,
+    "name": "成都凯德广场乐视界店",
+    "url": "https://cdn.haimati.cn/himo/96d44659a1d2198c2176a6db68d314c1.png"
+  },
+  {
+    "id": 1263,
+    "name": "成都凯德广场新南店",
+    "url": "https://cdn.haimati.cn/himo/d89ffd5bc41df4916123c720d3721ef2.png"
+  },
+  {
+    "id": 1363,
+    "name": "成都凯德广场金牛店",
+    "url": "https://cdn.haimati.cn/himo/c24d23971630640154cf62a5e2a436af.png"
+  },
+  {
+    "id": 1216,
+    "name": "成都大源银泰城店",
+    "url": "https://cdn.haimati.cn/himo/304502c83f4505fa6a7d8ba7ca04a8ac.png"
+  },
+  {
+    "id": 1039,
+    "name": "成都来福士广场店",
+    "url": "https://cdn.haimati.cn/himo/57bf093979794ae4a092ca7c656634c1.png"
+  },
+  {
+    "id": 1187,
+    "name": "成都环球中心店",
+    "url": "https://cdn.haimati.cn/himo/209347fc13be5954fa0fac3efdead002.png"
+  },
+  {
+    "id": 1236,
+    "name": "成都茂业天地店",
+    "url": "https://cdn.haimati.cn/himo/ccc47469deeda1708571f6a35e82b403.png"
+  },
+  {
+    "id": 1359,
+    "name": "成都锦华万达广场店",
+    "url": "https://cdn.haimati.cn/himo/2cf99158099e2fa6013369f96a56fdd2.png"
+  },
+  {
+    "id": 1264,
+    "name": "成都龙湖滨江天街店",
+    "url": "https://cdn.haimati.cn/himo/26d626d5edd8f6ad34597215954b9683.png"
+  },
+  {
+    "id": 1158,
+    "name": "成都龙湖西宸天街店",
+    "url": "https://cdn.haimati.cn/himo/985f53ba8a7715115aea856d301bce2d.png"
+  },
+  {
+    "id": 1115,
+    "name": "重庆万象城店",
+    "url": "https://cdn.haimati.cn/himo/04eec1ef4c6a5dfc82a5df2ed37015e0.png"
+  },
+  {
+    "id": 1100,
+    "name": "重庆协信星光时代广场店",
+    "url": "https://cdn.haimati.cn/himo/9ecbd96163f4ac3026ca4ba7676b8c0e.png"
+  },
+  {
+    "id": 1212,
+    "name": "重庆来福士广场店",
+    "url": "https://cdn.haimati.cn/himo/364f5cb430b5844c2fd8c4211988aad0.png"
+  },
+  {
+    "id": 1194,
+    "name": "重庆龙湖北城天街店",
+    "url": "https://cdn.haimati.cn/himo/a0c4aaecce3872bccaa56f0e5de2b93c.png"
+  },
+  {
+    "id": 1027,
+    "name": "重庆龙湖时代天街D馆店",
+    "url": "https://cdn.haimati.cn/himo/e2b4f00fd70ea08cf8459ceb56a82f1d.png"
+  },
+  {
+    "id": 1070,
+    "name": "重庆龙湖源著天街店",
+    "url": "https://cdn.haimati.cn/himo/77f334bbe6be3de1cec2d181a90d27bd.png"
+  },
+  {
+    "id": 1335,
+    "name": "西安万象城店",
+    "url": "https://cdn.haimati.cn/himo/7ad0210ec854051d92b197b1a79c05f1.png"
+  },
+  {
+    "id": 1198,
+    "name": "西安凯德御锦城店",
+    "url": "https://cdn.haimati.cn/himo/ec79f2dd7c29f8a81e5f6daacfbd9766.png"
+  },
+  {
+    "id": 1340,
+    "name": "西安凯德新地城店",
+    "url": "https://cdn.haimati.cn/himo/6712cbc502c0c6d53aacc8ca71901d69.png"
+  },
+  {
+    "id": 1156,
+    "name": "西安大融城店",
+    "url": "https://cdn.haimati.cn/himo/4803825325505006169da04b9e8f9ccf.png"
+  },
+  {
+    "id": 1153,
+    "name": "西安曲江大悦城店",
+    "url": "https://cdn.haimati.cn/himo/dcbb82eb43a43c2f87a151de587bc60e.png"
+  },
+  {
+    "id": 1130,
+    "name": "西安朝阳门益田假日世界店",
+    "url": "https://cdn.haimati.cn/himo/860b115eee7a9d79a42065fa38c8a6e4.png"
+  },
+  {
+    "id": 1277,
+    "name": "西安老城根G-park店",
+    "url": "https://cdn.haimati.cn/himo/0685d7ce2004320eb12f5c54b67615cd.png"
+  },
+  {
+    "id": 1232,
+    "name": "西安赛格国际购物中心店",
+    "url": "https://cdn.haimati.cn/himo/1602adde7be773d54b5e76afbbd1219a.png"
+  },
+  {
+    "id": 1123,
+    "name": "西安金地广场店",
+    "url": "https://cdn.haimati.cn/himo/7df989e98d6ba905a81a781a02183ab8.png"
+  },
+  {
+    "id": 1309,
+    "name": "西安阳光天地店",
+    "url": "https://cdn.haimati.cn/himo/8eb5b3757dfa9ff294cd73c8b2804d97.png"
+  },
+  {
+    "id": 1275,
+    "name": "西安高新万达广场店",
+    "url": "https://cdn.haimati.cn/himo/4d98b2ed718d88f9edddad6ae618f65c.png"
+  },
+  {
+    "id": 1273,
+    "name": "西安高新益田假日里店",
+    "url": "https://cdn.haimati.cn/himo/01267d4a68bf36d42c07122d01f40e44.png"
+  },
+  {
+    "id": 1296,
+    "name": "银川建发大阅城店",
+    "url": "https://cdn.haimati.cn/himo/d0156c548406e7954d9530c7bac52185.png"
+  }
+]

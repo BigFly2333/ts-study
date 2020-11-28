@@ -1,0 +1,87 @@
+
+<!doctype html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Alipay Test</title>
+</head>
+<body>
+<script src="https://gw.alipayobjects.com/as/g/h5-lib/alipayjsapi/3.1.1/alipayjsapi.min.js"></script>
+<script src="https://wechatfe.github.io/vconsole/lib/vconsole.min.js?v=3.3.0"></script>
+<script>
+  // 初始化vConsole
+  window.vConsole = new window.VConsole();
+
+  if (/AlipayClient/.test(window.navigator.userAgent)) {
+    ap.getAuthCode({
+      appId: '2018051560157638',
+      scopes: ['auth_base'],
+    }, function (res) {
+      (async () => {
+        if (res.authCode) {
+          try {
+            // 这里换成预约端下单接口
+            let domain = 'api.local.hzmantu.com';
+            let orderId = 'M10102201' + Math.ceil(Math.random() * 10000000);
+            let orderInfoResp = await fetch(`https://${domain}/payment_getway/addNewPayment`, {
+              method: "POST",
+              mode: "cors",
+              headers: {
+                "content-type": "application/json;charset=UTF-8"
+              },
+              body: JSON.stringify({
+                orderId: orderId,
+                subMchId: "1001",
+                needPayment: 0.01,
+              })
+            });
+
+            orderInfoResp = await orderInfoResp.json();
+            if (!orderInfoResp.success) {
+              alert("后端调用失败")
+              console.log(orderInfoResp)
+              return
+            }
+
+            let code = encodeURIComponent(orderInfoResp.msg.code);
+            let authCode = encodeURIComponent(JSON.stringify({alipay_auth_code: res.authCode}));
+            console.log(authCode);
+            console.log({
+              paymentStr: code,
+              paymentType: 'PaymaxAlipay',
+              paymentExtend: authCode
+            })
+
+            let paymentResp = await fetch(`https://${domain}/payment_getway/do?paymentStr=${code}&paymentType=PaymaxAlipay&paymentExtend=${authCode}`, {
+              method: "GET",
+              mode: "cors",
+            });
+
+            paymentResp = await paymentResp.json();
+            ap.alert(JSON.stringify(paymentResp));
+
+            AlipayJSBridge.call("tradePay", {
+              tradeNO: paymentResp.msg.prePayId, // 必传，此使用方式下该字段必传
+            }, function (result) {
+              ap.alert(JSON.stringify(result));
+            });
+          } catch (e) {
+            ap.alert(e);
+            console.log(e)
+          }
+
+          return
+        }
+        ap.alert(JSON.stringify(res));
+      })()
+    });
+  } else {
+    let currentUrl = encodeURIComponent(location.href);
+    location.href = `alipays://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=${currentUrl}`;
+  }
+</script>
+</body>
+</html>

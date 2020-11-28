@@ -1,0 +1,24 @@
+{
+  "host": "https://cdn.haimati.cn",
+  "samples": [],
+  "explanation_text": [],
+  "service_item_set": {},
+  "people_num_config": [
+    {
+      "id": 1,
+      "name": "清愈拍摄人数",
+      "min_num": 1,
+      "max_num": 4
+    },
+    {
+      "id": 2,
+      "name": "清愈拍摄宠物数量",
+      "min_num": 1,
+      "max_num": 2
+    }
+  ],
+  "product_explanation": {
+    "img": "",
+    "name": ""
+  }
+}
